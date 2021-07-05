@@ -33,6 +33,24 @@ $ git pull origin master # git아 pull(업데이트 해줘) origin 이라는 원
 
 
 
+```bash
+$ git pull origin master
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 754 bytes | 62.00 KiB/s, done.
+From https://github.com/edujustin-hphk/TIL
+ * branch            master     -> FETCH_HEAD
+   318fe37..b26517d  master     -> origin/master
+Updating 318fe37..b26517d
+Fast-forward
+ 99_markdown_syntax.md | 1 +
+ 1 file changed, 1 insertion(+)
+```
+
+
+
 
 
 
