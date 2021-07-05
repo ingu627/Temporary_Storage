@@ -49,7 +49,7 @@ $ git pull origin master # git아 pull(업데이트 해줘) origin 이라는 원
 $ git clone 복제할저장소URL
 ```
 
-
+![Screen Shot 2021-07-05 at 오후 5.47](md-images/Screen%20Shot%202021-07-05%20at%20%EC%98%A4%ED%9B%84%205.47.png)
 
 
 
