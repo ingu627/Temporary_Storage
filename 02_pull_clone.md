@@ -15,12 +15,10 @@ $ git push origin master
 - 참고
 
   ```bash
-  $ git push -u origin master # 이건 한번만 붙이면 됩니다. (최소 1회 push 할 때만 붙이자!)
+  $ git push -u origin master # 여기서 -u는 최초 1회만 붙이면 됩니다. (최소 1회 push 할 때만 붙이자!)
   ```
 
   
-
-
 
 ## pull
 
@@ -53,8 +51,6 @@ Fast-forward
 
 
 
-
-
 ## clone
 
 - 원격 저장소 전체를 복제
@@ -68,6 +64,17 @@ $ git clone 복제할저장소URL
 ```
 
 ![Screen Shot 2021-07-05 at 오후 5.47](md-images/Screen%20Shot%202021-07-05%20at%20%EC%98%A4%ED%9B%84%205.47.png)
+
+만약 원격 저장소의 이름이 아닌 다른 이름으로 폴더를 clone 받고 싶다면?
+
+```bash
+$ git clone 원격저장소URL clone받을폴더이름
+
+# 예시
+$ git clone https://github.com/edujustin-hphk/TIL.git TIL-test
+```
+
+
 
 
 
