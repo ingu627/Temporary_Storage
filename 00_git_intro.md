@@ -51,6 +51,12 @@ $ git config --global core.editor "code --wait"
 
 
 
+## 로컬 저장소의 git 히스토리 삭제 
+
+```bash
+$ rm -rf .git
+```
+
 
 
 
