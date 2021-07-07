@@ -2,6 +2,13 @@
 
 ### 1. submodule => git 속의 git
 
+<<<<<<< HEAD
+=======
+> git init은 반드시 폴더의 '최상단!!!!!!'에서만 진행한다!!!!
+
+
+
+>>>>>>> 98e0f5a6c329810aa9b2a6cc8bad864aecd5f689
 가끔 Github에 폴더에 화살표가 있을 때
 
 * => Git 저장소 내부에 Git 저장소가 있는 경우  
@@ -29,7 +36,11 @@
 
 ### 약속
 
+<<<<<<< HEAD
 - git 명령어는 항상 .git 폴더가 있는 곳에서 하자!
+=======
+- git init 항상 git으로 관리하고자 하는 최상단 폴더에서 한번만 하자!!
+>>>>>>> 98e0f5a6c329810aa9b2a6cc8bad864aecd5f689
 - git 저장소로 활용되는 폴더에 다른 git 저장소를 옮기지 말자!
 
 
@@ -97,4 +108,13 @@ $ git remote add origin https://github.com/edujustin-hphk/no_commit.git
 $ git push origin master
 error: src refspec master does not match any
 error: failed to push some refs to 'https://github.com/edujustin-hphk/no_commit.git'
+<<<<<<< HEAD
 ```
+=======
+```
+
+
+
+### 추가적으로 branch를 사용하기 위해서는 master branch에 최소 1개의 커밋은 있어야 한다.
+
+>>>>>>> 98e0f5a6c329810aa9b2a6cc8bad864aecd5f689
