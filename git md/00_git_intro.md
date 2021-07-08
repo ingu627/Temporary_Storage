@@ -181,6 +181,12 @@ $ git log --oneline
 00ebb6a (HEAD -> master) Initial commit
 ```
 
+### git 로그 정지 탈출 방법 
+
+: Q를 누른다.
+
+
+
 
 
 퀴즈! 만약 status를 여기서 찍으면 어떤 결과가 나올까?
