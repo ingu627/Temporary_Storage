@@ -135,6 +135,8 @@ Untracked files: # git이 아직 변경 사항을 추적하고 있지 않은 친
 
 ![image-20210705150947301](md-images/image-20210705150947301.png)
 
+
+
 ```bash
 # 기본 -> commit을 위한 폴더 & 파일을 추가!
 $ git add 파일/폴더이름
@@ -142,6 +144,35 @@ $ git add 파일/폴더이름
 $ git add a.txt # 특정 파일을 WD -> SA 
 $ git add . # 해당 디렉토리(하위 디렉토리 모두 포함)의 모든 폴더 & 파일을 SA 
 $ git add my-folder/ # 특정 디렉토리를 WD -> SA
+```
+
+
+
+### 윈도우 git 에서 한글 파일이 깨져 나올 때 해결 방법 
+
+```bash
+$ git config core.quotepath false
+```
+
+
+
+### 터미널 입력 시 파일명에 공백이 있을 경우 문제
+
+- 터미널에서 명렁어 입력 시 파일명, 폴더명에 공백이 있으면 제대로 인식이 안된다. 이럴 때는 공백 앞에 역슬래시(\)를 넣으면 해결된다.
+
+
+
+##### 에러 - 공백일 있을 경우 에러가 난다.
+
+```bash
+$ git add useful_code/한글 파일 깨짐 방지 코드.ipynb
+fatal: pathspec 'useful_code/한글' did not match any files
+```
+
+##### 해결법 - 역슬래시를 붙이면 제대로 된다.
+
+```bash
+$ git add useful_code/한글\ 파일\ 깨짐\ 방지\ 코드.ipynb
 ```
 
 
