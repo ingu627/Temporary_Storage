@@ -177,6 +177,20 @@ $ git add useful_code/한글\ 파일\ 깨짐\ 방지\ 코드.ipynb
 
 
 
+#### 수정되거나 삭제된 파일 반영
+
+```bash
+git add -u
+```
+
+또한 git commit 에서 -a옵션을 붙여주게 되면 수정되거나 삭제된 파일만 commit하게 해준다. 
+
+```bash
+git commit -a -m'message'
+```
+
+=> push까지 하면 github에 제대로 반영이 된다.
+
 
 
 ## commit
