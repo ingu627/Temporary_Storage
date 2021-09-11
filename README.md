@@ -34,3 +34,9 @@ Tableau : 데이터 시각화를 위한 태블로 by boostcourse (https://www.bo
 
 
 useful_code : etc
+
+
+SQL_Recipe_sample-code_20190607 : 데이터 분석을 위한 SQL 레시피 by 가사키 나가토 (http://hanbit.co.kr/src/10060)
+
+
+doit_pandas-master : 데이터 분석을 위한 판다스 입문 (https://github.com/easysIT/doit_pandas)
