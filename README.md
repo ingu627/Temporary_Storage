@@ -15,7 +15,7 @@ crawling
 deeplearning_AI : multicampus course
 
 
-git_md_description : basic theory of MD (by edujustin.hphk)
+git_md_description : basic theory of GIT & MD (by edujustin.hphk)
 
 
 NLP : 딥 러닝을 이용한 자연어 처리 입문 (https://wikidocs.net/book/2155)
