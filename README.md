@@ -2,6 +2,8 @@
 TIL (Today I Learned)
 
 
+info : 따로 정리
+
 
 coding_practice_mul 
 
@@ -40,3 +42,6 @@ SQL_Recipe_sample-code_20190607 : 데이터 분석을 위한 SQL 레시피 by �
 
 
 doit_pandas-master : 데이터 분석을 위한 판다스 입문 (https://github.com/easysIT/doit_pandas)
+
+
+handson-ml2-master : 핸즈온 머신러닝 2판 (https://github.com/rickiepark/handson-ml2)
