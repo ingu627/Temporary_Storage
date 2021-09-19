@@ -2,16 +2,16 @@
 TIL (Today I Learned)
 
 
-info : 따로 정리
+info : 정리 된 노트 모음 (matplotlib, seaborn, 전처리실습...)
 
 
-coding_practice_mul 
+coding_practice_mul : daily assignment in multicampus
 
 
-coding_test
+coding_test : programmers, 백준 ... 
 
 
-crawling
+crawling : notebook from danawa, starbucks, instagram
 
 
 deeplearning_AI : multicampus course
@@ -35,7 +35,7 @@ SQLite : SQLite3로 가볍게 배우는 데이터베이스: SQL 기초 실습 (h
 Tableau : 데이터 시각화를 위한 태블로 by boostcourse (https://www.boostcourse.org/ds121/joinLectures/243160)
 
 
-useful_code : etc
+useful_code : 한글깨짐, 
 
 
 SQL_Recipe_sample-code_20190607 : 데이터 분석을 위한 SQL 레시피 by 가사키 나가토 (http://hanbit.co.kr/src/10060)
@@ -45,3 +45,6 @@ doit_pandas-master : 데이터 분석을 위한 판다스 입문 (https://github
 
 
 handson-ml2-master : 핸즈온 머신러닝 2판 (https://github.com/rickiepark/handson-ml2)
+
+
+deep-learning-with-python-notebooks : 케라스 창시자에게 배우는 딥러닝 (https://github.com/gilbutITbook/006975)
