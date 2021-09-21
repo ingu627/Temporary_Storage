@@ -48,3 +48,6 @@ handson-ml2-master : 핸즈온 머신러닝 2판 (https://github.com/rickiepark/
 
 
 deep-learning-with-python-notebooks : 케라스 창시자에게 배우는 딥러닝 (https://github.com/gilbutITbook/006975)
+
+
+pytorch-book : 딥러닝에 목마른 사람들을 위한 PyTorch (https://github.com/bjpublic/PyTorch)
