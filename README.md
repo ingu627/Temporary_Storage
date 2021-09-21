@@ -55,3 +55,6 @@ pytorch-book : 딥러닝에 목마른 사람들을 위한 PyTorch (https://githu
 
 kaggleml-mjpublic : Kaggle 우승작으로 배우는 - 머신러닝 탐구생활 (https://github.com/bjpublic/kaggleml)  
 
+
+data_science_school : 데이터 사이언스 스쿨 (https://datascienceschool.net/intro.html)
+
