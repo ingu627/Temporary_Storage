@@ -5,7 +5,7 @@ public class cha3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
-		//¼ýÀÚ
+		//ï¿½ï¿½ï¿½ï¿½
 		int age = 10;
 		long countOfStar = 8764827384923849L;
 		
@@ -15,8 +15,8 @@ public class cha3 {
 		double d1 = 123.4;
 		double d2 = 1.234e2;
 		
-		int octal = 023;    // ½ÊÁø¼ö: 19
-		int hex = 0xC;     // ½ÊÁø¼ö: 12
+		int octal = 023;    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: 19
+		int hex = 0xC;     // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: 12
 		
 		int a = 10;
         int b = 5;
@@ -28,7 +28,7 @@ public class cha3 {
         System.out.println(7 % 3);
         System.out.println(3 % 7);
         
-        //Áõ°¨¿¬»ê
+        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         int i = 0;
         int j= 10;
         i++;
@@ -46,7 +46,7 @@ public class cha3 {
         boolean isTall = height > base;
 
         if (isTall) {
-            System.out.println("Å°°¡ Å®´Ï´Ù.");
+            System.out.println("Å°ï¿½ï¿½ Å®ï¿½Ï´ï¿½.");
         }
         
         int z = 3;
@@ -62,5 +62,13 @@ public class cha3 {
         System.out.println(a3);
         
 	}
+
+public class cha3_1{
+    public static void main(String[] args){
+        String a = "Happy Java";
+        System.out.println(a)
+
+    }
+}
 
 }
