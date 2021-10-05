@@ -53,6 +53,9 @@ deep-learning-with-python-notebooks : 케라스 창시자에게 배우는 딥러
 pytorch-book : 딥러닝에 목마른 사람들을 위한 PyTorch (https://github.com/bjpublic/PyTorch)  
 
 
+kaggle : 캐글 연습 및 타 코드 풀이 및 실습
+
+
 kaggleml-mjpublic : Kaggle 우승작으로 배우는 - 머신러닝 탐구생활 (https://github.com/bjpublic/kaggleml)  
 
 
