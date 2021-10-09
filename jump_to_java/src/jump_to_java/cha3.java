@@ -30,7 +30,7 @@ public class cha3 {
         
         //��������
         int i = 0;
-        int j= 10;
+        int j= 10; 
         i++;
         j--;
 
@@ -66,8 +66,8 @@ public class cha3 {
 public class cha3_1{
     public static void main(String[] args){
         String a = "Happy Java";
-        System.out.println(a)
-
+        System.out.println(a);
+// 안녕
     }
 }
 
