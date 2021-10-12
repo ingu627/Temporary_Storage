@@ -46,7 +46,7 @@ C드라이브에 Anaconda 검색
 
 
 
-C:\Users\poeun\anaconda3\envs\nlp\Lib\site-packages 
+C:\Users\poeun\anaconda3\envs\NLP\Lib\site-packages 
 
 여기에 
 
@@ -63,4 +63,14 @@ mecab_python-0.996_ko_0.9.2_msvc-cp36-cp36m-win_amd64.whl 옮기기
 설치 되었는지 확인
 
 ![image-20211011234551117](C:\Users\poeun\AppData\Roaming\Typora\typora-user-images\image-20211011234551117.png)
+
+
+
+
+
+
+
+## tweepy 에러 날시 
+
+![image-20211012094601041](C:\Users\poeun\AppData\Roaming\Typora\typora-user-images\image-20211012094601041.png)
 
