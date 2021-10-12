@@ -16,7 +16,7 @@ conda create --name 가상환경 이름 python=3.6 anaconda
 
 
 
-conda activate nlp
+conda activate NLP
 
 
 
