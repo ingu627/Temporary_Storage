@@ -50,8 +50,12 @@ TIL (Today I Learned)  및 이론 실습
 #### NLP 
 
 - 딥 러닝을 이용한 자연어 처리 입문 (https://wikidocs.net/book/2155)  
+
 - nlp_by_suanlab (https://www.youtube.com/c/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%B0%EA%B5%AC%EC%86%8C)  
+
 - modu_nlp_tutorials-master (https://github.com/uhmppi1/modu_nlp_tutorials)  
+
+- python_ml4nlp (패스트캠퍼스, 자연어처리를 위한 머신 러닝 수업 실습 코드 : https://github.com/lovit/python_ml4nlp)
 
   
 
@@ -149,4 +153,7 @@ TIL (Today I Learned)  및 이론 실습
 
 - 텐서플로우 공식 사이트 (https://www.tensorflow.org/guide?hl=ko)  
 
-  
+
+
+
+
