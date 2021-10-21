@@ -31,18 +31,18 @@ SHOW DATABASES; -- 현재 서버에 어떤 DB가 있는지 보기
 -- 단일 주석
 -- /* */ 멀티 주석
 
---USB : 사용할 데이터베이스 지정 
---지정해 놓은 후 특별히 다시 USE문 사용하거나 다른 DB를 사용하겠다고 명시하지 않는 이상 모든 SQL문은 지정 DB에서 수행
+-- USB : 사용할 데이터베이스 지정 
+-- 지정해 놓은 후 특별히 다시 USE문 사용하거나 다른 DB를 사용하겠다고 명시하지 않는 이상 모든 SQL문은 지정 DB에서 수행
 use world;
 
-SHOW TABLES; --데이터베이스 world의 테이블 이름 보기
+SHOW TABLES; -- 데이터베이스 world의 테이블 이름 보기
 
 SHOW TABLE STATUS; 
 -- : 데이터베이스 WORLD의 테이블 정보 조회
 
 DESCRIBE city; 
---city 테이블에 무슨 열이 있는지 확인 
---또는 DESC
+-- city 테이블에 무슨 열이 있는지 확인 
+-- 또는 DESC
 
 DESC country; 
 -- ; :쿼리가 끝났다
@@ -127,9 +127,9 @@ from city
 where Population > all (
      select Population
      from city
-     where District = 'New York'); --뉴욕의 인구수보다 많은 도시들을 보여줘라
+     where District = 'New York'); -- 뉴욕의 인구수보다 많은 도시들을 보여줘라
 
---ORDER GROUP : 결과가 출력되는 순서를 조절하는 구문
+-- ORDER GROUP : 결과가 출력되는 순서를 조절하는 구문
 -- 기본적으로 오름차순 정렬(ASC)
 -- 내림차순으로 정렬(DESC)
 select *
@@ -155,7 +155,7 @@ order by SurfaceArea desc;
 select distinct CountryCode
 from city;
 
---limit : 출력 개수를 제한 / 상위의 N개만 출력하는 LIMIT N 구문
+-- limit : 출력 개수를 제한 / 상위의 N개만 출력하는 LIMIT N 구문
 select *
 from city
 order by Population desc
@@ -252,7 +252,7 @@ trim(trailing '#' from '###MySQL##');
 -- format() : 숫자 타입의 데이터를 세 자리마다 쉼표를 사용하는 #,###,##.## 형식으로 변환
 -- 반환되는 데이터의 형식은 문자열 타입
 -- 두 번째 인수는 반올림할 소수 부분의 자릿수
-select format(123121312.12312313, 3); --3개씩 끊어서
+select format(123121312.12312313, 3); -- 3개씩 끊어서
 
 -- FLOOR() : 내림
 -- CEIL() : 올림
