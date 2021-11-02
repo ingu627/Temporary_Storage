@@ -94,8 +94,6 @@ print('Hello World!')
 
 `![]()`
 
-![](C:\Users\campusseven05\Desktop\TIL\cute.jpg)
-
 ![cute](md-images/cute.jpg)
 
 
