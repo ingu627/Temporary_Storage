@@ -13,15 +13,6 @@ TIL (Today I Learned)  및 이론 실습
 
 - daily assignment in multicampus    
 
-  
-
-#### coding_test  
-
-- programmers  
-- 백준  
-- 이것이 코딩테스트다     
-
-  
 
 #### crawling   
 
