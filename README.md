@@ -99,11 +99,7 @@ TIL (Today I Learned)  및 이론 실습
 
 - 데이터 분석을 위한 판다스 입문 (https://github.com/easysIT/doit_pandas)    
 
-  
 
-#### handson-ml2-master   
-
-- 핸즈온 머신러닝 2판 (https://github.com/rickiepark/handson-ml2)    
   
 
 #### pytorch-book   
