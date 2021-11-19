@@ -1,60 +1,22 @@
-# TIL-THEORY
-TIL (Today I Learned)  및 이론 실습
-
-
+## Temporary_Storage
+- TIL (Today I Learned)  및 이론 실습
+-  python - ML, DL, tensorflow, pytorch, 등 여러 가지 정보가 담긴 임시 저장소
 
 #### info 
 
 - 정리 된 노트 모음 (matplotlib, seaborn, 전처리실습...)   
 
-  
-
-#### coding_practice_mul  
-
-- daily assignment in multicampus    
-
-
 #### crawling   
 
 - notebook from danawa, starbucks, instagram    
-
-  
-
-#### deeplearning_AI  
-
-- multicampus course   
-
-  
-
-#### deeplearning_AI_pdf   
-
-- multicampus course_writing  
-
-  
 
 #### git_md_description   
 
 - basic theory of GIT & MD (by edujustin.hphk)    
 
-  
-
-#### NLP 
-
-- 딥 러닝을 이용한 자연어 처리 입문 (https://wikidocs.net/book/2155)  
-
-- nlp_by_suanlab (https://www.youtube.com/c/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%B0%EA%B5%AC%EC%86%8C)  
-
-- modu_nlp_tutorials-master (https://github.com/uhmppi1/modu_nlp_tutorials)  
-
-- python_ml4nlp (패스트캠퍼스, 자연어처리를 위한 머신 러닝 수업 실습 코드 : https://github.com/lovit/python_ml4nlp)
-
-  
-
 #### python_stat   
 
 - 누구나 파이썬 통계분석 by 타니아이 히로키 (https://www.hanbit.co.kr/)    
-
-  
 
 #### PyTorch  
 
@@ -103,31 +65,14 @@ TIL (Today I Learned)  및 이론 실습
 
 - 캐글 연습 및 타 코드 풀이 및 실습  
 
-  
-
-#### kaggleml-mjpublic   
-
-- Kaggle 우승작으로 배우는 - 머신러닝 탐구생활 (https://github.com/bjpublic/kaggleml)    
-
-  
-
 #### data_science_school   
 
 - 데이터 사이언스 스쿨 (https://datascienceschool.net/intro.html)  
-
-  
-
-#### Data-Analyst-Nanodegree   
-
-- udacity(Nanodegree) (by Baek Kyun Shin)  
-
-  
 
 #### Mysql  
 
 - SQL 연습 database  
 
-  
 
 #### tensorflow  
 
