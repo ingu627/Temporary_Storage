@@ -1,0 +1,4 @@
+name: detect_disaster_from_tweets
+channels:
+  - conda-forge
+dependencies:
